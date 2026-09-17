@@ -1,0 +1,4 @@
+build/
+trajectory.txt
+data/
+.DS_Store
